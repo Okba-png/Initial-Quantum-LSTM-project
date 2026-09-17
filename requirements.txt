@@ -1,0 +1,5 @@
+qiskit==1.2.0
+qiskit-machine-learning==0.7.0
+torch==2.2.0
+numpy==1.26.4
+matplotlib==3.8.4
