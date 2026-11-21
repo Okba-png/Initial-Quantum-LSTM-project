@@ -13,3 +13,6 @@ env/
 # Cache
 __pycache__/
 *.pyc
+
+# Locally copied Python packages
+qiskit/
