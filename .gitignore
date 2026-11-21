@@ -16,3 +16,20 @@ __pycache__/
 
 # Locally copied Python packages
 qiskit/
+
+# Lokale Lernprojekte
+QC-Labs-maim_EXC/
+Quanten_Computing_DE/
+Quantum-Chemistry-and-Computing-for-the-Curious-main/
+Von-der-Quantenmechanik-zum-Qubit-main/
+qiskit_sourcecodes/
+thqml-1.0-main/
+
+# Notebooks in Bearbeitung
+notebooks/1-bloch_kugel_gatter.ipynb
+notebooks/2-zwei_qubit_fundament.ipynb
+notebooks/3-drei_qubit_algorithmen.ipynb
+notebooks/Qiskit_Lektion_03.ipynb
+notebooks/Qiskit_Lektion_04.ipynb
+notebooks/Qiskit_Lektion_05.ipynb
+notebooks/Qiskit_Lektion_06.ipynb
